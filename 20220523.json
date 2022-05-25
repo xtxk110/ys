@@ -1,7 +1,7 @@
 {
 "wallpaper":"",
-//http://fj365.ml/6/0.txt?raw=true
-"spider": "https://gitee.com/tianxin110/catvodtvspider/raw/master/custom_spider_0523.jar",
+//https://gitee.com/tianxin110/catvodtvspider/raw/master/custom_spider_0523.jar
+"spider": "http://fj365.ml/6/0.txt?raw=true",
 "sites":[
 {"key":"csp_Buka","name":"🐼真不卡022/5/22更新接口","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_CZSPP","name":"🐼厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
