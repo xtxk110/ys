@@ -1,0 +1,9 @@
+
+
+{：
+
+"spider":"http://home.jundie.top:81/jar/top93.jar",
+
+"sites":[
+{"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""}
+}
