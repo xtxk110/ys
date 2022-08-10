@@ -1,5 +1,5 @@
 {
-"spider":"https://cdn.jsdelivr.net/gh/xtxk110/ys/spider_m1.jar",
+"spider":"https://cdn.jsdelivr.net/gh/xtxk110/ys/spider_m1_1.jar",
 "sites": [ { "key": "csp_77","name": "77(SP)", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "filterable": 1 },
              { "key": "csp_Cokemv", "name": "焦炭（SP）", "type": 3,
       "api": "csp_Cokemv",
@@ -388,8 +388,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-{"key":"csp_xpath_wnys","name":"万能影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/wnvod.json"},
-{
+	  {
       "key": "csp_appysv2_蒲公英",
       "name": "蒲公英视频",
       "type": 3,
@@ -398,36 +397,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.pgy1.top/ruifenglb_api.php/v1.vod"
-    },
-    {
-      "key": "csp_xpath_jpjl",
-      "name": "极品极链(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E6%9E%81%E5%93%81%E6%9E%81%E9%93%BE.json"
-    },
-   {
-      "key": "csp_xpath_lranc",
-      "name": "天天影视(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/lranc.json"
-    },
-{
-      "key": "csp_xpath_pianku",
-      "name": "片库(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E7%89%87%E5%BA%93.json"
     },
     {
       "key": "思古影院",
