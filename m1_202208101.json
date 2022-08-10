@@ -1,5 +1,5 @@
 {
-"spider":"https://cdn.jsdelivr.net/gh/xtxk110/ys/spider_m1_1.jar",
+"spider":"https://cdn.jsdelivr.net/gh/xtxk110/ys/spider_m10.jar",
 "sites": [ { "key": "csp_77","name": "77(SP)", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "filterable": 1 },
              { "key": "csp_Cokemv", "name": "焦炭（SP）", "type": 3,
       "api": "csp_Cokemv",
