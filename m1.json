@@ -1,6 +1,5 @@
 {
-//"spider":"https://tianxin8.coding.net/p/tv/d/tv/git/raw/master/spider_m1_1.jar",
-"spider":"https://tianxin8.coding.net/p/tv/d/tv/git/raw/master/spider_m1.jar",
+"spider":"https://cdn.jsdelivr.net/gh/xtxk110/ys/spider_m1.jar",
 "sites": [ { "key": "csp_77","name": "77(SP)", "type": 3, "api": "csp_Kunyu77", "searchable": 1, "quickSearch": 1, "filterable": 1 },
              { "key": "csp_Cokemv", "name": "焦炭（SP）", "type": 3,
       "api": "csp_Cokemv",
@@ -53,69 +52,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-//{"key": "ikan_spider","name": "爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,   //"filterable": 1},
-//{"key": "mjxq_spider","name": "美剧星球(SP)","type": 3,"api": "csp_MjxqApp","searchable": 1,"quickSearch": //1,"filterable": 1},
-    {
-      "key": "csp_xpath_qiyou",
-      "name": "奇优电影(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/qiyou.json"
-    },
-    {
-      "key": "csp_xpath_cokemv",
-      "name": "Cokemv(XPMac)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/cokemv.json"
-    },
- {
-      "key": "csp_xpath_huya",
-      "name": "虎牙直播(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/huya.json"
-    },
-{
-      "key": "csp_xpath_kuqi",
-      "name": "酷奇MV(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/kuqimv.json"
-    },    
-{"key":"csp_xpath_qcys","name":"奇粹影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/ikuwoo.json"},
-    {
-      "key": "六度",
-      "name": "六度(XPM)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/6dtv.json"
-    },
-    {
-      "key": "csp_xpath_unss",
-      "name": "九洲影视(XPMF)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E4%B9%9D%E5%B7%9E.json"
-    },
 {
       "key": "csp_appys_xiaogui_躺平影视",
       "name": "躺平影视(m)",
@@ -137,17 +73,6 @@
       "ext": "https://app.zteys.com/api.php/v1.vod"
     },
  {
-      "key": "csp_xpath_chen",
-      "name": "尘落(优XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/chenluo.json"
-    },
-{"key":"csp_xpath_hmtv","name":"花猫TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/huamao.json"},{"key":"csp_xpath_hhys","name":"火火影视TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/huohuo.json"},
-    {
       "key": "csp_AppYs_秒播",
       "name": "秒播",
       "type": 3,
@@ -187,56 +112,6 @@
       "filterable": 1,
       "ext": "http://r.zjj.life:88/mv/api.php/Chengcheng/vod"
     },
-     {
-      "key": "csp_xpath_netf",
-      "name": "网飞(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/netflix.json"
-    },
-    {
-      "key": "csp_xpath_libv",
-      "name": "libvio(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/libvio.json"
-    },
-{
-      "key": "csp_xpath_saohuo",
-      "name": "骚火(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/%E9%AA%9A%E7%81%AB.json"
-    },
-    {
-      "key": "csp_xpath_lezhutv",
-      "name": "乐猪(XPath)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/%E4%B9%90%E7%8C%AAtv.json"
-    },
- {
-      "key": "csp_xpath_ddg",
-      "name": "达达龟(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/dadagui.json"
-    },
     {
       "key": "csp_appys_看365",
       "name": "看365",
@@ -267,51 +142,7 @@
       "filterable": 1,
       "ext": "https://www.tkys.tv/xgapp.php/v2/"
     },
-{"key":"csp_xpath_subb","name":"素白白TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/subaibai.json"},
-{
-      "key": "csp_xpath_vipdy",
-      "name": "VIP电影(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/vip1280.json"
-    },
-{"key":"csp_xpath_juhu","name":"剧荒(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/juhuang.json"},
-{
-      "key": "csp_xpath_huah",
-      "name": "花和电影(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/huahe.json"
-    },
-{
-      "key": "csp_xpath_dsx",
-      "name": "大师兄XP",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/dsxys.json"
-    },
-{"key":"csp_xpath_mboy","name":"MBO影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/mbomovice.json"},
-{
-      "key": "csp_xpath_zjdr",
-      "name": "追剧达人(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/vipmv.json"
-    },
-{"key":"csp_xpath_dxdx","name":"滴嘻滴嘻(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/dixidixi.json"},
- {
+	  {
       "key": "csp_appysv2_独播社",
       "name": "独播社(优)",
       "type": 3,
@@ -320,16 +151,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://35ys.cc/api.php/v1.vod"
-    },
-    {
-      "key": "csp_xpath_zx",
-      "name": "在线之家(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
     },
     {
       "key": "csp_appysv2_段友影视",
@@ -371,16 +192,6 @@
       "filterable": 1,
       "ext": "https://app.okmedcos.com/ruifenglb_api.php/v1.vod"
     },   
-{
-      "key": "csp_xpath_zmdy",
-      "name": "周末电影(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/zzzlike.json"
-    },
     {
       "key": "csp_appysv2_暖光影视",
       "name": "暖光影视(优)",
@@ -390,17 +201,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://app.bl210.com/api.php/v1.vod"
-    },
-   {"key":"csp_xpath_lmys","name":"来米影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/qdytv.json"},
-    {
-      "key": "csp_xpath_1080p",
-      "name": "1080电影(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/1080.json"
     },
 {"key":"csp_DY1990","name":"90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
    {
@@ -432,156 +232,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078668/0"
-    },
-    {
-      "key": "csp_xpath_ikan",
-      "name": "爱看(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/ikan.json"
-    },
-    {
-      "key": "csp_xpath_miao",
-      "name": "喵喵(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/miaomiao.json"
-    },
-    {
-      "key": "csp_xpath_dym8",
-      "name": "电影迷8(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/dianyingmi8.json"
-    },
-  {
-      "key": "csp_xpath_xqm",
-      "name": "小强迷(优XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/xiaoqiang.json"
-    },
-    {
-      "key": "csp_xpath_tvby",
-      "name": "TVB云播(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/tvb.json"
-    },
-    {
-      "key": "csp_xpath_jubb",
-      "name": "剧白白(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/jubaibai.json"
-    },
- {
-      "key": "csp_xpath_ddt",
-      "name": "达达兔(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E8%BE%BE%E8%BE%BE%E5%85%94.json"
-    },
-{
-      "key": "csp_xpath_9egy",
-      "name": "9E国语(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E4%B9%9D%E4%BA%BF%E5%9B%BD%E8%AF%AD.json"
-    },
-    {
-      "key": "csp_xpath_zhangz",
-      "name": "厂长资源(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.json"
-    },
-   {
-            "key": "csp_appysv2_日诚影视",
-            "name": "日诚影视(M2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://tv.rcz168.com/api.php/v1.vod"
-        },
- {
-      "key": "csp_xpath_wug",
-      "name": "乌龟(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E4%B9%8C%E9%BE%9F%E5%BD%B1%E9%99%A2.json"
-    },
- {
-      "key": "csp_xpath_348",
-      "name": "348电影(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/348z.json"
-    },
-    {
-      "key": "csp_xpath_zj",
-      "name": "追剧网(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E8%BF%BD%E5%89%A7%E7%BD%91.json"
-    },
-  {
-      "key": "csp_xpath_jpys",
-      "name": "极品影视(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/jpys.json"
-    },
-{
-      "key": "csp_xpath_pianba",
-      "name": "片吧(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E7%89%87%E5%90%A7.json"
     },
     {
       "key": "csp_appysv2_天空影视",
