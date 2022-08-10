@@ -41,7 +41,7 @@
 {"key":"csp_xpath_kuqimv","name":"🎧酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/xtxk110/ys/m6/酷奇MV.json"},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/OneClickRun/MaooXP/huya2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🐠斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://9xi4o.tk/OneClickRun/MaooXB/斗鱼.json"},
-{"key": "csp_xpath_miao","name": "🐹喵喵(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.jsdelivr.net/gh/xtxk110/ys/m6/miaomiao.json"},
+{"key": "csp_xpath_miao","name": "🐹喵喵(XP)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cdn.jsdelivr.net/gh/xtxk110/ys/box/MaooXB2/miaomiao.json"},
 {"key":"csp_biubiu_乐猪影视","name":"🐷乐猪TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.css.lc/api/v3/file/get/7553/%E4%B9%90%E7%8C%AA%E5%BD%B1%E8%A7%86.json?sign=gxAxlRnRGinVR94Q4wOBQ21Wp47_KPHKT_ySRxSjjq0%3D%3A0"},
 {"key": "csp_biubiu_555电影","name": "🙊555电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.css.lc/api/v3/file/get/7533/555%E7%94%B5%E5%BD%B13.json?sign=q9roHiU76cnK478_jrl9Y64YFT9v6H6XagYLDyqEI9c%3D%3A0"},
 //{"key":"开麦K歌","name":"开麦K歌","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkg.php/provide/vod/","searchable":1,"quickSearch":1},
